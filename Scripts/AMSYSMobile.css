@@ -1,0 +1,51 @@
+﻿body {
+}
+.show
+{
+    position:relative;
+    left:-30px;
+    top:-22px;
+}
+#index
+{
+    position:absolute;
+    left:50px;
+    top:90px;    
+}
+
+#pageing
+{
+    position:absolute;
+    top:280px;    
+}
+#prev
+{
+    position:absolute;
+    left:-10px;
+    top:20px;    
+}
+#next
+{
+    position:absolute;
+    left:200px;
+    top:20px;
+}
+#caption
+{
+    position:absolute;
+    left:59px;
+    padding-left:23px;
+}
+.left
+{
+    float:left;
+    padding-right: 60px;
+    left:20px;
+    
+}
+.index
+{
+    float:left;
+    padding-left:20px;
+}
+div[id$=_1]
